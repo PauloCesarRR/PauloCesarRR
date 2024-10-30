@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<!--
-**PauloCesarRR/PauloCesarRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Paulo Cesar, I'm 19 years old.
 
-Here are some ideas to get you started:
+### 📋 Main Technologies
+  [![](https://skillicons.dev/icons?i=java,spring,gradle,go,kubernetes,docker,git,githubactions)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📋 Secondary Technologies
+  [![](https://skillicons.dev/icons?i=aws,azure,rabbitmq,grafana,prometheus,terraform,elasticsearch)](https://skillicons.dev)
+
+### 🚀 Tools
+[![](https://skillicons.dev/icons?i=idea,obsidian,postman,github)](https://skillicons.dev)
+
+### 💬 Contact
+<a href="https://linkedin.com/in/PauloCesarRR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-spedine-8269732a6" height="30" width="30" /></a>
+
+### 🖥️ Stats
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=PauloCesarRR&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+  [![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=PauloCesarRR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&hide_title=true&icon_color=F8D866)](https://github.com/arthurspedine/)
+  
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloCesarRR&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
