@@ -21,3 +21,4 @@ My name is Paulo Cesar, I'm 19 years old.
   [![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=PauloCesarRR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&hide_title=true&icon_color=F8D866)](https://github.com/PauloCesarRR/)
   
   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloCesarRR&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCesarRR)](https://github.com/anuraghazra/github-readme-stats)
